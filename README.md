@@ -2,7 +2,7 @@
 
 **Associate Professor** at the Department of Computer and Systems Engineering, University of La Laguna  
 🎮 Academic Director of the Master's Degree in Video Game Development  
-🥇 Unreal Authorized Instructor, Gold Level
+🥇 Unreal Authorized Instructor
 
 ---
 
@@ -14,8 +14,8 @@ University professor passionate about technology, video game development, open s
 
 ## 🌟 Featured Projects
 
-- [**ssoo-apuntes**](https://github.com/jesustorresdev/ssoo-apuntes): Lecture notes and resources for Operating Systems (Sistemas Operativos).
-- [**ssoo-ejemplos**](https://github.com/jesustorresdev/ssoo-ejemplos): Practical code examples and exercises for Operating Systems.
+- [**ssoo-apuntes**](https://github.com/ull-esit-sistemas-operativos/ssoo-apuntes): Lecture notes and resources for Operating Systems (Sistemas Operativos).
+- [**ssoo-ejemplos**](https://github.com/ull-esit-sistemas-operativos/ssoo-ejemplos): Practical code examples and exercises for Operating Systems.
 
 ---
 
