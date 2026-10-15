@@ -14,8 +14,8 @@ University professor passionate about technology, video game development, open s
 
 ## 🌟 Featured Projects
 
-- [**ssoo-apuntes**](https://github.com/ull-esit-sistemas-operativos/ssoo-apuntes): Lecture notes and resources for Operating Systems (Sistemas Operativos).
-- [**ssoo-ejemplos**](https://github.com/ull-esit-sistemas-operativos/ssoo-ejemplos): Practical code examples and exercises for Operating Systems.
+- [Lecture notes for Operating Systems](https://ull-esit-sistemas-operativos.github.io/ssoo-apuntes/) (Spanish only)
+- [Practical code examples and exercises for Operating Systems](https://github.com/ull-esit-sistemas-operativos/ssoo-ejemplos)
 
 ---
 
